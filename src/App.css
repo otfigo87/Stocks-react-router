@@ -43,3 +43,23 @@ h1{
 h2 {
     margin:  0.3em 2em;
 }
+
+.stocks-table{
+    text-align: center;
+   
+}
+table {
+    width: 80%;
+     margin: 0 auto;
+     text-align: left;
+     border-bottom: 1px solid black;
+}
+td,th, tr{
+    border-bottom: 1px solid black;
+}
+th {
+    color: rgb(41, 69, 192);
+}
+#head {
+    margin-bottom: 1em;
+}
